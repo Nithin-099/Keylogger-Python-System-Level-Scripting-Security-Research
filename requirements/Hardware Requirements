@@ -1,0 +1,18 @@
+
+-> Processor: Minimum dual-core CPU (Intel i3 or equivalent) to handle background
+monitoring tasks efficiently without slowing down the host system.
+-> Memory (RAM): At least 4 GB of RAM to ensure smooth operation alongside other
+applications, with higher RAM recommended for systems handling multiple
+monitoring modules.
+-> Storage: Minimum 100 MB of free disk space for software installation, plus
+additional storage for encrypted log files depending on monitoring duration and
+intensity. SSD preferred for faster read/write operations.
+-> Network Interface: Reliable network adapter (Ethernet or Wi-Fi) to support secure
+remote log transmission and real-time alerting.
+-> Operating System Compatibility: Hardware must support Windows 10 or later, and
+Linux distributions compatible with the suite’s drivers and hooks.
+-> Security Hardware (Optional): Trusted Platform Module (TPM) or hardware
+encryption support recommended for enhanced data protection.
+-> Peripheral Support: Standard keyboard and mouse for input monitoring; optionally
+support for webcam or other devices if extended monitoring features are included.
+
