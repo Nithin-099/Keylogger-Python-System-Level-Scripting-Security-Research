@@ -1,0 +1,15 @@
+With the growing need for authorized activity monitoring and cybersecurity education,
+there is an increasing demand for tools that can securely log user input for auditing, analysis,
+or educational demonstrations. Traditional keyloggers often pose significant security and
+ethical risks due to lack of encryption, uncontrolled access to sensitive data, and potential
+misuse. To address these issues, this project proposes the development of a Python-Based
+Encrypted Keylogger for Windows, which securely captures and stores keystrokes while
+maintaining user privacy through encryption and controlled access.
+The purpose of this project is to provide a secure, educational tool that demonstrates
+how input tracking systems can be implemented responsibly, with encryption mechanisms
+that prevent unauthorized data access. The project captures keystrokes along with timestamps
+and the active application window, enabling a contextual understanding of user activity.
+All logs are encrypted using Fernet symmetric encryption, which ensures that only
+authorized individuals with the correct key can decrypt and view the logged data. This
+encrypted logging mechanism helps mitigate risks typically associated with keylogging while
+maintaining educational and security value.
