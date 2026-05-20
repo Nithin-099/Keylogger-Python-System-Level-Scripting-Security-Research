@@ -1,0 +1,28 @@
+ Software Requirements
+ Operating System:
+o Windows 10 or later (64-bit preferred)
+o Popular Linux distributions (e.g., Ubuntu, Fedora) with kernel versions
+compatible with low-level drivers
+ Programming Languages and Frameworks:
+o C/C++ for low-level system hooks and kernel driver development
+o Python or JavaScript (for the user interface and remote management
+components)
+ Database:
+o Lightweight encrypted database (e.g., SQLite with encryption extensions) for
+secure local log storage
+ Encryption Libraries:
+o OpenSSL or similar for encrypting logs and securing remote transmissions
+ Network Protocols:
+o Secure communication protocols such as TLS/SSL for remote log retrieval and
+command & control channels
+ User Interface:
+o Cross-platform UI frameworks (e.g., Electron, Qt) for the control panel
+ Security Software Compatibility:
+o Must be tested for compatibility and stealth against common antivirus and
+endpoint protection solutions
+ Development Tools:
+o Integrated Development Environments (IDEs) like Visual Studio, GCC
+toolchain, and debugging tools for kernel-mode and user-mode development
+ Logging and Monitoring Tools:
+o Tools for real-time monitoring, anomaly detection, and alert generation
+integrated within the software or accessible via API
